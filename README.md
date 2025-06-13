@@ -47,8 +47,7 @@
     * Exploratory data analysis
     * Writing – original draft
 
-🔍 *For coding-related contributions, see the markdown comments before each code chunk in the notebook available at:*
-[github.com/panditpooja/WiDS\_Datathon\_2025](https://github.com/panditpooja/WiDS_Datathon_2025)
+🔍 *For coding-related contributions, see the markdown comments before each code chunk in the notebook available at:* [Data preprcessing code](https://github.com/panditpooja/WiDS_Datathon_2025/blob/main/preprocess_2.ipynb) and [Model Training Code](https://github.com/panditpooja/WiDS_Datathon_2025/blob/main/train.ipynb)
 
 
 ## 🧠 Project Overview
