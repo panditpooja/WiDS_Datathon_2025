@@ -57,6 +57,11 @@ This repository contains the codebase and methodology for our submission to the 
 - Sex (Female) (binary classification)
 
 The challenge, developed in collaboration with Cornell University, UC Santa Barbara, the Child Mind Institute, and the Reproducible Brain Charts project, focuses on sex-based differences in neurodevelopment, particularly ADHD, where underdiagnosis in females is a critical issue.
+Here’s how you can neatly include the dataset source in your `README.md` file using Markdown:
+
+## 📊 Dataset
+
+The dataset used for this project is from the [WiDS Datathon 2025 on Kaggle](https://www.kaggle.com/competitions/widsdatathon2025/data).
 
 ## 🎯 Objectives
 
