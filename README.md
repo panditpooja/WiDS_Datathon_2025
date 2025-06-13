@@ -3,6 +3,53 @@
 **WiDS Datathon 2025 Project**  
 **Team Members:** Pooja Pandit, Mushaer Ahmed, Neha Chaudhary, Partha Vemuri  
 **Institution:** University of Arizona
+---
+
+## Contribution 
+**Team Members:**
+* **Pooja Pandit**
+
+  * Affiliation: College of Information Science, University of Arizona, Tucson, AZ
+  * Contributions:
+
+    * Conceptualization
+    * Model development
+    * Principal component analysis
+    * Cross-validation and testing
+    * Writing – original draft, review, and editing
+    
+* **Mushaer Ahmed**
+
+  * Affiliation: Department of Industrial and Systems Engineering, University of Arizona, Tucson, AZ
+  * Contributions:
+
+    * Conceptualization
+    * Model development
+    * Feature-based model selection
+    * Cross-validation and testing
+    * Writing – original draft, review, and editing
+
+* **Neha Chaudhary**
+
+  * Affiliation: College of Information Science, University of Arizona, Tucson, AZ
+  * Contributions:
+
+    * Conceptualization
+    * Data preprocessing and imputation
+    * Exploratory data analysis and visualization
+    * Writing – original draft
+
+* **Partha Vemuri**
+
+  * Affiliation: College of Information Science, University of Arizona, Tucson, AZ
+  * Contributions:
+
+    * Exploratory data analysis
+    * Writing – original draft
+
+🔍 *For coding-related contributions, see the markdown comments before each code chunk in the notebook available at:*
+[github.com/panditpooja/WiDS\_Datathon\_2025](https://github.com/panditpooja/WiDS_Datathon_2025)
+
 
 ## 🧠 Project Overview
 
